@@ -271,3 +271,7 @@ Likely:
 ```
 warning: multiple definitions for subckt sky130_fd_pr__rf_nfet_01v8_bM04W3p00, overwriting previous
 ```
+##ACKNOWLEDGEMENTS
+
+Kunal Ghosh 
+Arya Reais Parsi 
