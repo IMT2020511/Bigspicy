@@ -273,5 +273,5 @@ warning: multiple definitions for subckt sky130_fd_pr__rf_nfet_01v8_bM04W3p00, o
 ```
 ##ACKNOWLEDGEMENTS
 
-Kunal Ghosh 
+Kunal Ghosh\\
 Arya Reais Parsi 
